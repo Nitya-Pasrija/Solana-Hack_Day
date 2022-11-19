@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.extension.toc.githubCompatibility": true
 }
